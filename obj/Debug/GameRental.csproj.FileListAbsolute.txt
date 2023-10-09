@@ -1,0 +1,32 @@
+D:\Youssef\FCAI\Term 4\Data Base\Project\GameRental\obj\Debug\GameRental.csproj.AssemblyReference.cache
+D:\Youssef\FCAI\Term 4\Data Base\Project\GameRental\obj\Debug\GameRental.Properties.Resources.resources
+D:\Youssef\FCAI\Term 4\Data Base\Project\GameRental\obj\Debug\GameRental.csproj.GenerateResource.cache
+D:\Youssef\FCAI\Term 4\Data Base\Project\GameRental\obj\Debug\GameRental.csproj.CoreCompileInputs.cache
+D:\Youssef\FCAI\Term 4\Data Base\Project\GameRental\bin\Debug\Game Rental.exe.config
+D:\Youssef\FCAI\Term 4\Data Base\Project\GameRental\bin\Debug\Game Rental.exe.manifest
+D:\Youssef\FCAI\Term 4\Data Base\Project\GameRental\bin\Debug\Game Rental.application
+D:\Youssef\FCAI\Term 4\Data Base\Project\GameRental\bin\Debug\Game Rental.exe
+D:\Youssef\FCAI\Term 4\Data Base\Project\GameRental\bin\Debug\Game Rental.pdb
+D:\Youssef\FCAI\Term 4\Data Base\Project\GameRental\obj\Debug\GameRental.Form1.resources
+D:\Youssef\FCAI\Term 4\Data Base\Project\GameRental\obj\Debug\Game Rental.exe.manifest
+D:\Youssef\FCAI\Term 4\Data Base\Project\GameRental\obj\Debug\Game Rental.application
+D:\Youssef\FCAI\Term 4\Data Base\Project\GameRental\obj\Debug\Game Rental.exe
+D:\Youssef\FCAI\Term 4\Data Base\Project\GameRental\obj\Debug\Game Rental.pdb
+D:\Youssef\Data Base\GameRentalقديم\obj\Debug\GameRental.csproj.AssemblyReference.cache
+D:\Youssef\Data Base\GameRentalقديم\obj\Debug\GameRental.Form1.resources
+D:\Youssef\Data Base\GameRentalقديم\obj\Debug\GameRental.Properties.Resources.resources
+D:\Youssef\Data Base\GameRentalقديم\obj\Debug\GameRental.csproj.GenerateResource.cache
+D:\Youssef\Data Base\GameRentalقديم\obj\Debug\GameRental.csproj.CoreCompileInputs.cache
+D:\Youssef\Data Base\GameRentalقديم\obj\Debug\Game Rental.exe
+D:\Youssef\Data Base\GameRentalقديم\obj\Debug\Game Rental.pdb
+D:\Youssef\Data Base\GameRentalقديم\bin\Debug\GameRental.mdf
+D:\Youssef\Data Base\GameRentalقديم\bin\Debug\GameRental_log.ldf
+D:\Youssef\Data Base\GameRentalقديم\bin\Debug\Game Rental.exe.config
+D:\Youssef\Data Base\GameRentalقديم\bin\Debug\Game Rental.exe.manifest
+D:\Youssef\Data Base\GameRentalقديم\bin\Debug\Game Rental.application
+D:\Youssef\Data Base\GameRentalقديم\bin\Debug\Game Rental.exe
+D:\Youssef\Data Base\GameRentalقديم\bin\Debug\Game Rental.pdb
+D:\Youssef\Data Base\GameRentalقديم\obj\Debug\Game Rental.exe.manifest
+D:\Youssef\Data Base\GameRentalقديم\obj\Debug\Game Rental.application
+D:\Youssef\Data Base\GameRentalقديم\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Youssef\Data Base\GameRentalقديم\obj\Debug\GameRental.csproj.CopyComplete
